@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{52FC533E-671B-412C-8637-A9940E206378}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGenerator.SpecFlowPlugin", "MyGenerator.SpecFlowPlugin\MyGenerator.SpecFlowPlugin.csproj", "{9F05C60E-B552-453D-9692-9C062F1D169B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52FC533E-671B-412C-8637-A9940E206378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FC533E-671B-412C-8637-A9940E206378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52FC533E-671B-412C-8637-A9940E206378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52FC533E-671B-412C-8637-A9940E206378}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F05C60E-B552-453D-9692-9C062F1D169B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F05C60E-B552-453D-9692-9C062F1D169B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F05C60E-B552-453D-9692-9C062F1D169B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F05C60E-B552-453D-9692-9C062F1D169B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {076D7EAD-6B5A-45FF-8294-30DC2AA5950D}
+	EndGlobalSection
+EndGlobal
