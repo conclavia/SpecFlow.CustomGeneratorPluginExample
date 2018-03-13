@@ -18,5 +18,9 @@ namespace MyGenerator.SpecFlowPlugin
         { }
 
         public void RegisterDependencies(ObjectContainer container) { }
+        public void Initialize(GeneratorPluginEvents generatorPluginEvents, GeneratorPluginParameters generatorPluginParameters)
+        {
+            
+        }
     }
 }
